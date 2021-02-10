@@ -13,6 +13,8 @@ You'll be working **in groups** to make a form, with:
 ### What Form Types Can I Include?
 
 You can find [a list of form input types here](https://www.w3schools.com/html/html_form_input_types.asp). All of them _should_ work expect for `radio` and `checkbox`, though they also may not have their full functionality without some JavaScript. Experiment to see what works and what you like!
+x
+x
 
 ### The Basic Workflow For Adding A Form Input Field In This Project
 
